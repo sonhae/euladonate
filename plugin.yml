@@ -1,0 +1,7 @@
+name: donateshop
+version: 0.1
+author: gsdhyeri
+main: euladonate.main
+commands:
+    cashshop:
+        aliases: [캐시샵]
